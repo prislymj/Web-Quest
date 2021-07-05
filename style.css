@@ -182,7 +182,7 @@ top:130px;
     margin-top: 2%;
     height:300px;
     background-repeat: no-repeat;
-    background-image: url("../Project/images.jpg");
+    background-image: url("images.jpg");
     background-position: 50% 50%;
     background-size: contain;
 }
